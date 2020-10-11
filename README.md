@@ -1,7 +1,7 @@
 # sex-and-the-city-language-analysis
 'It wasn’t logic, it was love' and other quotes # sexandthecity
 
-<img src="https://img.shields.io/badge/python-3.8.5 -brightgreen"> <img src='https://img.shields.io/badge/nltk-3.5-blue'> <img src='https://img.shields.io/badge/pandas-1.1.1-blue'> <img src='https://img.shields.io/badge/numpy-1.19.1-blue'> <img src="https://img.shields.io/badge/matplotlib-3.3.1 -blue"> <img src="https://img.shields.io/badge/seaborn-0.10.1 -blue"> <img src="https://img.shields.io/badge/natural-language%20processing-orange"> <img src="https://img.shields.io/badge/text-analysis-orange"> <img src="https://img.shields.io/badge/exploratory-data%20analysis-orange">
+<img src="https://img.shields.io/badge/python-3.8.5 -brightgreen"> <img src='https://img.shields.io/badge/nltk-3.5-blue'> <img src='https://img.shields.io/badge/pandas-1.1.1-blue'> <img src='https://img.shields.io/badge/numpy-1.19.1-blue'> <img src="https://img.shields.io/badge/matplotlib-3.3.1 -blue"> <img src="https://img.shields.io/badge/seaborn-0.10.1 -blue"> <img src="https://img.shields.io/badge/natural-language%20processing-ff69b4"> <img src="https://img.shields.io/badge/text-analysis-ff69b4"> <img src="https://img.shields.io/badge/exploratory-data%20analysis-ff69b4">
 
  ## Table of contents
 * [General info](#general-info)
