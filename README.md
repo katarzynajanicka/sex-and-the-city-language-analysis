@@ -36,12 +36,31 @@ Characters with the largest number of lines:
 
 ## The 'Sex And The City' quotes search engine
 
-4.1. Quotes about cities and places 
-4.2. Quotes about men and women 
-4.3. Quotes about food, fashion and lifestyle 
-4.4. Quotes about appearance 
-4.5. Quotes about relationships and emotions 
-4.6. Other quotes
+1. Quotes about cities and places:
+
+![](./documentation/quotes_ny_carrie.png)
+![](./documentation/quotes_starbucks.png)
+
+2. Quotes about men and women 
+
+![](./documentation/quotes_men_carrie.png)
+![](./documentation/quotes_women.png)
+
+3. Quotes about food, fashion and lifestyle
+
+![](./documentation/quotes_closet.png)
+
+4. Quotes about appearance 
+
+![](./documentation/quotes_appearance2.png)
+
+5. Quotes about relationships and emotions
+
+![](./documentation/quotes_marriage.png)
+
+6. Other quotes
+
+![](./documentation/quotes_other.png)
 
 ## Status
 This project is still in progress.
