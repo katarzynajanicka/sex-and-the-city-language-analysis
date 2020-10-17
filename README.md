@@ -29,7 +29,7 @@ The analysis and its results are stored in the Jupyter Notebook file (sex-and-th
 
 ## Screenshots
 
-Characters with the largest number of lines
+<u> Characters with the largest number of lines </u>
 
 ![](./documentation/most_talkative_allseasons.png)
 ![](./documentation/most_talkative_s1.png)
@@ -39,7 +39,7 @@ Characters with the largest number of lines
 ![](./documentation/most_talkative_s5.png)
 ![](./documentation/most_talkative_s6.png)
 
-The 'Sex And The City' quotes search engine
+<u> The 'Sex And The City' quotes search engine </u>
 
 1. Quotes about cities and places
 
