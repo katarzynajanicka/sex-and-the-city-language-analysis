@@ -27,6 +27,21 @@ The input data consists of a single csv file (SATC_all_lines.csv). This is a dat
 
 The analysis and its results are stored in the Jupyter Notebook file (sex-and-the-city-lines.ipynb). 
 
+## Screenshots
+
+Characters with the largest number of lines:
+
+![](./documentation/most_talkative_allseasons.png)
+![](./documentation/most_talkative_s1.png)
+
+## The 'Sex And The City' quotes search engine
+
+4.1. Quotes about cities and places 
+4.2. Quotes about men and women 
+4.3. Quotes about food, fashion and lifestyle 
+4.4. Quotes about appearance 
+4.5. Quotes about relationships and emotions 
+4.6. Other quotes
 
 ## Status
 This project is still in progress.
