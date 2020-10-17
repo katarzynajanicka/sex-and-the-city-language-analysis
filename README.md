@@ -54,7 +54,6 @@ The analysis and its results are stored in the Jupyter Notebook file - sex-and-t
 3. Quotes about food, fashion and lifestyle
 
 ![](./documentation/quotes_closet.png)
-![](./documentation/quotes_shoes.png)
 ![](./documentation/quotes_manoloblahnik.png)
 
 4. Quotes about appearance 
