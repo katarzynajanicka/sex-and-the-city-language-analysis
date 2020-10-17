@@ -23,9 +23,9 @@ Python libraries:
 * seaborn - version 0.10.1
   
 ## Setup
-The input data consists of a single csv file (*SATC_all_lines.csv*). This is a dataset sourced from Kaggle (https://www.kaggle.com/snapcrack/every-sex-and-the-city-script).
+The input data consists of a single csv file - SATC_all_lines.csv. This is a Kaggle dataset (https://www.kaggle.com/snapcrack/every-sex-and-the-city-script).
 
-The analysis and its results are stored in the Jupyter Notebook file (*sex-and-the-city-lines.ipynb*). 
+The analysis and its results are stored in the Jupyter Notebook file - sex-and-the-city-lines.ipynb. 
 
 ## Screenshots
 
