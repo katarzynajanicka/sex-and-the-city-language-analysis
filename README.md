@@ -33,6 +33,11 @@ Characters with the largest number of lines
 
 ![](./documentation/most_talkative_allseasons.png)
 ![](./documentation/most_talkative_s1.png)
+![](./documentation/most_talkative_s2.png)
+![](./documentation/most_talkative_s3.png)
+![](./documentation/most_talkative_s4.png)
+![](./documentation/most_talkative_s5.png)
+![](./documentation/most_talkative_s6.png)
 
 The 'Sex And The City' quotes search engine
 
