@@ -29,6 +29,9 @@ The analysis and its results are stored in the Jupyter Notebook file - sex-and-t
 
 ## Screenshots
 
+**Project structure**
+![](./documentation/table_of_contents.png)
+
 **Characters with the largest number of lines**
 
 ![](./documentation/most_talkative_allseasons.png)
@@ -76,5 +79,8 @@ The analysis and its results are stored in the Jupyter Notebook file - sex-and-t
 ![](./documentation/top_words_carrie.png)
 ![](./documentation/top_bigrams_carrie.png)
 
+**Conclusions**
+![](./documentation/conclusions.png)
+
 ## Status
-This project is still in progress.
+This project is complete.
