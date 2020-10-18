@@ -30,6 +30,7 @@ The analysis and its results are stored in the Jupyter Notebook file - sex-and-t
 ## Screenshots
 
 **Project structure**
+
 ![](./documentation/table_of_contents.png)
 
 **Characters with the largest number of lines**
@@ -80,6 +81,7 @@ The analysis and its results are stored in the Jupyter Notebook file - sex-and-t
 ![](./documentation/top_bigrams_carrie.png)
 
 **Conclusions**
+
 ![](./documentation/conclusions.png)
 
 ## Status
