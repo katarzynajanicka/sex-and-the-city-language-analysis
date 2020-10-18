@@ -7,6 +7,8 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Screenshots](#screenshots)
+* [Conclusions](#conclusions)
 * [Status](#status)
 
 ## General info
@@ -80,7 +82,7 @@ The analysis and its results are stored in the Jupyter Notebook file - sex-and-t
 ![](./documentation/top_words_carrie.png)
 ![](./documentation/top_bigrams_carrie.png)
 
-**Conclusions**
+## Conclusions
 
 ![](./documentation/conclusions.png)
 
