@@ -71,5 +71,10 @@ The analysis and its results are stored in the Jupyter Notebook file - sex-and-t
 
 ![](./documentation/quotes_other.png)
 
+**Counting word and bigram frequencies in the data**
+
+![](./documentation/top_words_carrie.png)
+![](./documentation/top_bigrams_carrie.png)
+
 ## Status
 This project is still in progress.
